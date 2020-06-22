@@ -4,6 +4,7 @@ Amazon SageMaker Autopilot automatically identifies an end-to-end workflow pipel
 
 amazon-sagemaker-autopilot-feature-engineering-explainability.ipynb provides an example on how to leverage the artifacts generated out of the Amazon SageMaker Autopilot, to achieve data transforming, and model explainability separately. In the notebook, it demonstrates how to map the feature name(s) before and after the feature engineering steps of the Amazon SageMaker Autopilot, which is significant for feature importance interpretation and explainability. Also the notebook illustrates how to enable the Amazon SageMaker Debugger, using the best model hyper-parameters identified by the Amazon SageMaker Autopilot, to generate shapely plot visualisation for global and individual prediction explainabilities.
 
+![](src/water_fall.png)
 ![](src/data_shaply.png)
 ![](src/global_shaply.png)
 
