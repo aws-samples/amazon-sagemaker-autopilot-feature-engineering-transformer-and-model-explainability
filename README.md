@@ -1,4 +1,4 @@
-# Amazon SageMaker Autopilot Feature Engineering Transformer and Model Explainability
+## Amazon SageMaker Autopilot Feature Engineering Transformer and Model Explainability
 
 Amazon SageMaker Autopilot automatically identifies an end-to-end workflow pipeline consisting of data pre-processing, feature engineering, as well as model searching, tuning, and training procedures. The output artifacts can be deployed easily to Amazon SageMaker Hosting Services for operation. Sometimes, however, machine learning tasks may demand more explainability into the pipeline, or just want to leverage a part of the workflow rather than end-to-end. 
 
@@ -13,6 +13,12 @@ amazon-sagemaker-autopilot-feature-engineering-explainability.ipynb provides an 
 2. [Amazon SageMaker Autopilot – Automatically Create High-Quality Machine Learning Models With Full Control And Visibility](https://aws.amazon.com/blogs/aws/amazon-sagemaker-autopilot-fully-managed-automatic-machine-learning/)
 3. [Amazon SageMaker Solution for explaining credit decisions](https://github.com/awslabs/sagemaker-explaining-credit-decisions)
 
+
+## Security
+
+See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
+
 ## License
 
 This library is licensed under the MIT-0 License. See the LICENSE file.
+
